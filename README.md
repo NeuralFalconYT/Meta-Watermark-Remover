@@ -10,6 +10,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+# Setup
 ## Image Demo 
 ### Before
 ![Fish Before](https://github.com/user-attachments/assets/d4316eaa-2272-43ce-8004-373e0b075eff)
