@@ -1,5 +1,5 @@
 # Meta-Watermark Remover using simple OpenCV masking and inpainting techniques
-[HuggingFace Space](https://huggingface.co/spaces/NeuralFalcon/Meta-Watermark-Remover)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/NeuralFalcon/Meta-Watermark-Remover)
 ```
 git clone https://github.com/NeuralFalconYT/Meta-Watermark-Remover.git
 cd Meta-Watermark-Remover.git
